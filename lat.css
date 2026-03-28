@@ -86,7 +86,7 @@ padding: 30px;
 display:flex;
 overflow-x:auto;
 gap:20px;
-padding:40px;l
+padding:40px;
 scroll-snap-type: x mandatory;
 }
 
